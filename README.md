@@ -13,7 +13,6 @@
 
 ### 🔻Objetivo
 Este repositório contém minha evolução com projetos de manipulação e criação de ferramentas disponibilizadas em Python para aprofundamento na área de Segurança da Informação
-<!-- Pré-Requisitos: -->
 
 ### 🔻Pré-requisitos
 
