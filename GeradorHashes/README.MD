@@ -20,8 +20,9 @@ import string: biblioteca manipulação de strings
 ```
 
 ### 🎯Funcionalidades:
-1. Primeiramente, há a necessidade do usuário digitar o tamanho da senha que deseja gerar;
-2. Assim, a ferramenta irá disponibilizar uma senha do tamanho escolhido, com letras maiúsculas e minúsculas e caracteres especiais.
+1. Primeiramente, há a necessidade do usuário digitar o texto a ser convertido;
+2. Logo após, deverá escolher dentre as opções de criptografia disponibilizadas no menu;
+3. Por fim, gerará seu texto convertido em hash.
 
 ### 💬Agradecimentos
 Agradeço imensamente à [Digital Innovation One](https://web.digitalinnovation.one/) e ao instrutor Bruno de Campos por disponibilizar o curso de Segurança da informação com Python na plataforma gratuitamente.
