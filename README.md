@@ -7,7 +7,7 @@
  <a href="#objetivo">Objetivo</a> •
  <a href="#pré-requisitos">Pré-requisitos</a> • 
  <a href="#instalação">Instalação</a> • 
- <a href="#agradecimentos">Agradecimentos</a> • 
+ <a href="#agradecimentos">Agradecimentos</a> 
 </p>
 
 
@@ -20,12 +20,12 @@ Você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 <br>Uma versão atualizada da linguagem [Python](https://www.python.org/) e um bom editor para trabalhar com o código como [PyCharm](https://www.jetbrains.com/pycharm/).
 <br>Caso esteja utilizando Linux, o [Python](https://www.python.org/) já vem pré-instalado.
 
-### 🔻 Instalação
+### 🔻Instalação
 
 ```bash
 # Clone este repositório
 $ git clone https://github.com/ThayseSantos/security-tools-with-python
 ```
 
-### 🔻 Agradecimentos
+### 🔻Agradecimentos
 Agradeço imensamente à [Digital Innovation One](https://web.digitalinnovation.one/) e ao instrutor Bruno de Campos por disponibilizar o curso de Segurança da informação com Python na plataforma gratuitamente.
