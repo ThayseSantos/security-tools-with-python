@@ -15,8 +15,7 @@
 Este repositório contém a ferramenta "Gerador de Hashes", o qual dá a liberdade para o usuário escolher o texto e o método de criptografia a ser convertido.
 ### 📂Bibliotecas
 ```bash
-import random: implementa geradores de números pseudoaleatórios.
-import string: biblioteca manipulação de strings 
+import hashlib: biblioteca que fornece funções para cálculo de hash
 ```
 
 ### 🎯Funcionalidades:
